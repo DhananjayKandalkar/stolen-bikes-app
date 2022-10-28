@@ -70,7 +70,7 @@ function App() {
           <FaCalendarAlt />
         </Box>
         <Button
-          onClick={() => alert("Sorry! searching unser progress")}
+          onClick={() => alert("Sorry! searching under progress")}
           colorScheme="teal"
           variant="solid"
           px="2rem"
