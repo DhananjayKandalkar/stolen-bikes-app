@@ -1,70 +1,106 @@
-# Getting Started with Create React App
+# Stolen-bike-index-app
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+### It's an Efficient problem solution for stolen bike cases for police department.
 
-## Available Scripts
+<br>
 
-In the project directory, you can run:
+### 🖥️ Tech Stack
+##
+![68747470733a2f2f696d672e736869656c64732e696f2f62616467652f52656163742d3230323332413f7374796c653d666f722d7468652d6261646765266c6f676f3d7265616374266c6f676f436f6c6f723d363144414642](https://user-images.githubusercontent.com/97023360/195138488-e2123512-abbd-464c-be47-9cd72b6a98b8.svg) ![68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4368616b726125323055492d3362633762643f7374796c653d666f722d7468652d6261646765266c6f676f3d6368616b72617569266c6f676f436f6c6f723d7768697465](https://user-images.githubusercontent.com/97023360/195138518-bd028714-6ef7-4f7b-ab83-38af00b06951.svg) ![68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4a6176615363726970742d3332333333303f7374796c653d666f722d7468652d6261646765266c6f676f3d6a617661736372697074266c6f676f436f6c6f723d463744463145](https://user-images.githubusercontent.com/97023360/195138557-414bc086-9d19-4bb1-a785-5194bc2719df.svg)
 
-### `npm start`
+<br>
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+## [Click to see Live Demo link »](https://stolen-bikes-app.vercel.app/)
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
 
-### `npm test`
+![stolen-app-1](https://user-images.githubusercontent.com/97023360/198643322-fef386cb-486b-4516-854c-c9549f597866.png)
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+![stolen-app-2](https://user-images.githubusercontent.com/97023360/198641455-f89d501b-2466-42c4-aa7a-a797d2f450ce.png)
 
-### `npm run build`
+<br>
+<br>
+<br>
+<br>
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+## Getting Started
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+This project was built using React, Chakra UI, HTML, CSS, JavaScript. for running on your local environment you should follow these guidelines.
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+<br>
 
-### `npm run eject`
+### Prerequisites
+* NPM
+* Node JS
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+<br>
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+### Setup
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+The project repository can be found in [GitHub link](https://github.com/DhananjayKandalkar/stolen-bikes-app) or just clone the project using this command.
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+<br>
 
-## Learn More
+``` 
+Using HTTPS
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+### git clone https://github.com/DhananjayKandalkar/stolen-bikes-app.git
+```
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+<br>
 
-### Code Splitting
+* Open terminal on your workspace
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+### Install
 
-### Analyzing the Bundle Size
+Install NPM
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+Check that you have node and npm installed
 
-### Making a Progressive Web App
+To check if you have Node.js installed, run this command in your terminal:
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+```
+node -v
+```
 
-### Advanced Configuration
+To confirm that you have npm installed you can run this command in your terminal:
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
+```
+npm -v
+```
 
-### Deployment
+To install all the dependences of the project, run the following command:
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
+```
+npm install
 
-### `npm run build` fails to minify
+```
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+To run the application run the following command:
+
+```
+npm start
+
+```
+
+<br>
+
+### Tools used on this project
+* Visual Studio Code IDE
+* Create react app template
+* chakra UI liabrary
+* other parallel react liabraries
+
+<br>
+
+## Contact
+
+### Dhananjay Kandalkar
+
+[![Dhananjay Kandalkar Linkdin](https://user-images.githubusercontent.com/97023360/195171281-bb2b01a3-59b8-463c-b6b3-3b1bfdb27f99.svg)](https://www.linkedin.com/in/dhananjay-kandalkar-4b819322a/) [![Dhananjay Kandalkar Gmail](https://user-images.githubusercontent.com/97023360/195172085-9ef01ed3-a2d5-409d-b927-7579d50247ec.svg)](https://mail.google.com/mail/?view=cm&fs=1&tf=1&to=dhananjay.kandalkar@gmail.com) [![Dhananjay Kandalkar Website](https://user-images.githubusercontent.com/97023360/195172158-d446634c-8ea1-4b2e-b14f-e9c285d02e25.svg)]() [![Dhananjay Kandalkar Tweeter](https://user-images.githubusercontent.com/97023360/195172183-91f631f7-8744-4a9f-84c3-c65e02e3a468.svg)](https://twitter.com/DhananjayK111)
+
+<br>
+<br>
+<br>
+
+##
+### Thank you for visiting project :pray:
